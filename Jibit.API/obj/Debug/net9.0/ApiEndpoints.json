@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "Jibit.API.Controllers.CardMatchingController",
+    "Method": "ValidateCard",
+    "RelativePath": "api/CardMatching/validate-card",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Jibit.Domain.Aggregates.CardMatchingRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jibit.API.Controllers.IbanInquiryController",
+    "Method": "GetIbanInfo",
+    "RelativePath": "api/IbanInquiry",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "IbanRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jibit.API.Controllers.MobileMatchingController",
+    "Method": "ValidateMobile",
+    "RelativePath": "api/MobileMatching/validate-mobile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Jibit.Domain.Aggregates.MobileMatchingRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

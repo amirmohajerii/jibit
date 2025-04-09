@@ -131,6 +131,19 @@
           "lib/net7.0/Mapster.Core.dll": {}
         }
       },
+      "Mapster.DependencyInjection/1.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Mapster": "7.4.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "compile": {
+          "lib/net7.0/Mapster.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/Mapster.DependencyInjection.dll": {}
+        }
+      },
       "MediatR/12.5.0": {
         "type": "package",
         "dependencies": {
@@ -1809,7 +1822,9 @@
         "dependencies": {
           "FluentValidation": "11.11.0",
           "Jibit.Domain": "1.0.0",
+          "Jibit.Infra": "1.0.0",
           "Mapster": "7.4.0",
+          "Mapster.DependencyInjection": "1.0.1",
           "MediatR": "12.5.0"
         },
         "compile": {
@@ -1822,10 +1837,6 @@
       "Jibit.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
-        "dependencies": {
-          "Mapster": "7.4.0",
-          "Microsoft.Extensions.DependencyInjection": "9.0.3"
-        },
         "compile": {
           "bin/placeholder/Jibit.Domain.dll": {}
         },
@@ -1837,7 +1848,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
-          "Jibit.Application": "1.0.0",
           "Jibit.Domain": "1.0.0",
           "Mapster": "7.4.0",
           "Microsoft.EntityFrameworkCore": "9.0.3",
@@ -1996,6 +2006,20 @@
         "lib/net7.0/Mapster.Core.dll",
         "mapster.core.1.2.1.nupkg.sha512",
         "mapster.core.nuspec"
+      ]
+    },
+    "Mapster.DependencyInjection/1.0.1": {
+      "sha512": "LfjnRIwx6WAo3ssq8PFeaHFaUz00BfSG9BhWgXsiDa3H5lDhG0lpMGDF6w2ZnooS4eHYmAv4f77VxmzpvgorNg==",
+      "type": "package",
+      "path": "mapster.dependencyinjection/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net6.0/Mapster.DependencyInjection.dll",
+        "lib/net7.0/Mapster.DependencyInjection.dll",
+        "mapster.dependencyinjection.1.0.1.nupkg.sha512",
+        "mapster.dependencyinjection.nuspec"
       ]
     },
     "MediatR/12.5.0": {
@@ -5415,23 +5439,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\johndoe\\.nuget\\packages\\": {},
+    "C:\\Users\\1\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johndoe\\Desktop\\jibit\\Jibit.API\\Jibit.API.csproj",
+      "projectUniqueName": "C:\\Users\\1\\Desktop\\ddqdq\\Jibit.API\\Jibit.API.csproj",
       "projectName": "Jibit.API",
-      "projectPath": "C:\\Users\\johndoe\\Desktop\\jibit\\Jibit.API\\Jibit.API.csproj",
-      "packagesPath": "C:\\Users\\johndoe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johndoe\\Desktop\\jibit\\Jibit.API\\obj\\",
+      "projectPath": "C:\\Users\\1\\Desktop\\ddqdq\\Jibit.API\\Jibit.API.csproj",
+      "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\1\\Desktop\\ddqdq\\Jibit.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\johndoe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5440,7 +5464,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://git.vla.co.ir/api/v4/projects/51/packages/nuget/index.json": {}
       },
@@ -5448,11 +5471,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\johndoe\\Desktop\\jibit\\Jibit.Application\\Jibit.Application.csproj": {
-              "projectPath": "C:\\Users\\johndoe\\Desktop\\jibit\\Jibit.Application\\Jibit.Application.csproj"
+            "C:\\Users\\1\\Desktop\\ddqdq\\Jibit.Application\\Jibit.Application.csproj": {
+              "projectPath": "C:\\Users\\1\\Desktop\\ddqdq\\Jibit.Application\\Jibit.Application.csproj"
             },
-            "C:\\Users\\johndoe\\Desktop\\jibit\\Jibit.Infra\\Jibit.Infra.csproj": {
-              "projectPath": "C:\\Users\\johndoe\\Desktop\\jibit\\Jibit.Infra\\Jibit.Infra.csproj"
+            "C:\\Users\\1\\Desktop\\ddqdq\\Jibit.Infra\\Jibit.Infra.csproj": {
+              "projectPath": "C:\\Users\\1\\Desktop\\ddqdq\\Jibit.Infra\\Jibit.Infra.csproj"
             }
           }
         }

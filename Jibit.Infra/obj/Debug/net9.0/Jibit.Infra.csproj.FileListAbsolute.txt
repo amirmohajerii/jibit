@@ -1,0 +1,17 @@
+C:\Users\1\Desktop\ddqdq\Jibit.Infra\bin\Debug\net9.0\Jibit.Infra.deps.json
+C:\Users\1\Desktop\ddqdq\Jibit.Infra\bin\Debug\net9.0\Jibit.Infra.runtimeconfig.json
+C:\Users\1\Desktop\ddqdq\Jibit.Infra\bin\Debug\net9.0\Jibit.Infra.dll
+C:\Users\1\Desktop\ddqdq\Jibit.Infra\bin\Debug\net9.0\Jibit.Infra.pdb
+C:\Users\1\Desktop\ddqdq\Jibit.Infra\bin\Debug\net9.0\Jibit.Domain.dll
+C:\Users\1\Desktop\ddqdq\Jibit.Infra\bin\Debug\net9.0\Jibit.Domain.pdb
+C:\Users\1\Desktop\ddqdq\Jibit.Infra\obj\Debug\net9.0\Jibit.Infra.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\ddqdq\Jibit.Infra\obj\Debug\net9.0\Jibit.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\ddqdq\Jibit.Infra\obj\Debug\net9.0\Jibit.Infra.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\ddqdq\Jibit.Infra\obj\Debug\net9.0\Jibit.Infra.AssemblyInfo.cs
+C:\Users\1\Desktop\ddqdq\Jibit.Infra\obj\Debug\net9.0\Jibit.Infra.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ddqdq\Jibit.Infra\obj\Debug\net9.0\Jibit.In.AE3FA9BB.Up2Date
+C:\Users\1\Desktop\ddqdq\Jibit.Infra\obj\Debug\net9.0\Jibit.Infra.dll
+C:\Users\1\Desktop\ddqdq\Jibit.Infra\obj\Debug\net9.0\refint\Jibit.Infra.dll
+C:\Users\1\Desktop\ddqdq\Jibit.Infra\obj\Debug\net9.0\Jibit.Infra.pdb
+C:\Users\1\Desktop\ddqdq\Jibit.Infra\obj\Debug\net9.0\Jibit.Infra.genruntimeconfig.cache
+C:\Users\1\Desktop\ddqdq\Jibit.Infra\obj\Debug\net9.0\ref\Jibit.Infra.dll

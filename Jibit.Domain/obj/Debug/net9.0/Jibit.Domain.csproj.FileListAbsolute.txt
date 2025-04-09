@@ -1,0 +1,11 @@
+C:\Users\1\Desktop\ddqdq\Jibit.Domain\bin\Debug\net9.0\Jibit.Domain.deps.json
+C:\Users\1\Desktop\ddqdq\Jibit.Domain\bin\Debug\net9.0\Jibit.Domain.dll
+C:\Users\1\Desktop\ddqdq\Jibit.Domain\bin\Debug\net9.0\Jibit.Domain.pdb
+C:\Users\1\Desktop\ddqdq\Jibit.Domain\obj\Debug\net9.0\Jibit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\ddqdq\Jibit.Domain\obj\Debug\net9.0\Jibit.Domain.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\ddqdq\Jibit.Domain\obj\Debug\net9.0\Jibit.Domain.AssemblyInfo.cs
+C:\Users\1\Desktop\ddqdq\Jibit.Domain\obj\Debug\net9.0\Jibit.Domain.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ddqdq\Jibit.Domain\obj\Debug\net9.0\Jibit.Domain.dll
+C:\Users\1\Desktop\ddqdq\Jibit.Domain\obj\Debug\net9.0\refint\Jibit.Domain.dll
+C:\Users\1\Desktop\ddqdq\Jibit.Domain\obj\Debug\net9.0\Jibit.Domain.pdb
+C:\Users\1\Desktop\ddqdq\Jibit.Domain\obj\Debug\net9.0\ref\Jibit.Domain.dll

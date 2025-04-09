@@ -1,12 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\johndoe\\Desktop\\jibit\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\ddqdq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E18742F7-7803-4FC3-B632-09D3E37C29C9}|Jibit.Infra\\Jibit.Infra.csproj|c:\\users\\1\\desktop\\ddqdq\\jibit.infra\\services\\jibitapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18742F7-7803-4FC3-B632-09D3E37C29C9}|Jibit.Infra\\Jibit.Infra.csproj|solutionrelative:jibit.infra\\services\\jibitapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JibitApiService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\ddqdq\\Jibit.Infra\\Services\\JibitApiService.cs",
+              "RelativeDocumentMoniker": "Jibit.Infra\\Services\\JibitApiService.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\ddqdq\\Jibit.Infra\\Services\\JibitApiService.cs",
+              "RelativeToolTip": "Jibit.Infra\\Services\\JibitApiService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwDsAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:39:36.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

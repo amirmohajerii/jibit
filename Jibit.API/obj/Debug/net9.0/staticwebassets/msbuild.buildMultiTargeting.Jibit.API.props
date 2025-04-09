@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Jibit.API.props" />
+</Project>

@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pUfkld/GwdU=",
+  "dgSpecHash": "wysbE5swf68=",
   "success": true,
-  "projectFilePath": "C:\\Users\\johndoe\\Desktop\\jibit\\Jibit.Domain\\Jibit.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\johndoe\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
-    "C:\\Users\\johndoe\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
-    "C:\\Users\\johndoe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.3\\microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
-    "C:\\Users\\johndoe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\1\\Desktop\\ddqdq\\Jibit.Domain\\Jibit.Domain.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
